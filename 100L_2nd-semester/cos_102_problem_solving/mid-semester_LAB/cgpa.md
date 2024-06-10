@@ -4,6 +4,8 @@
 
 ### Team contributors 
 
-[Ahmad Major](https://github.com/Ahmad081255)
-[Tobi Delly](https://github.com/tobidelly)
-[Udemezue John](https://github.com/udemezue01)
+1. [Ahmad Major](https://github.com/Ahmad081255)
+
+2. [Tobi Delly](https://github.com/tobidelly)
+
+3. [Udemezue John](https://github.com/udemezue01)
