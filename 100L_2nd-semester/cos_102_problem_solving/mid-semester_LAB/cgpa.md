@@ -2,7 +2,7 @@
 
 ## CGPA CALCULATOR 
 
-### Team contributors 
+### Team contributors: 
 
 1. [Ahmad Major](https://github.com/Ahmad081255)
 
