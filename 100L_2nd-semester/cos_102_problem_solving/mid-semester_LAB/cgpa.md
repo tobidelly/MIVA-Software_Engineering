@@ -19,7 +19,7 @@
 
 The `calculateGPA` function computes the GPA for the current semester using the formula:
 
-\[ \text{GPA} = \frac{\text{Total Grade Points}}{\text{Total Credits}} \]
+GPA = Total Grade Points / Total Credits
 
 where Total Grade Points is the sum of (Grade Point × Credits) for each course.
 
@@ -27,7 +27,7 @@ where Total Grade Points is the sum of (Grade Point × Credits) for each course.
 
 The `calculateCGPA` function computes the CGPA by combining the total grade points and total credits from previous semesters with the current semester's results:
 
-\[ \text{CGPA} = \frac{\text{Previous Total Grade Points} + \text{Current Total Grade Points}}{\text{Previous Total Credits} + \text{Current Credits}} \]
+CGPA = (Previous Total Grade Points + Current Total Grade Points) / (Previous Total Credits + Current Credits)
 
 ### Main Logic
 
