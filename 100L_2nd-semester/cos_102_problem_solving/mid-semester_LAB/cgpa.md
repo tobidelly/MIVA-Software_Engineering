@@ -37,3 +37,20 @@ CGPA = (Previous Total Grade Points + Current Total Grade Points) / (Previous To
 
 This ensures that the GPA is calculated solely for the current semester while the CGPA accumulates results from all semesters. The CGPA will always be a cumulative average and will not exceed the GPA of the current semester.
 
+### Side note: 
+To calculate the new CGPA using the current semester results and previous GPA or CGPA, you can follow these steps:
+
+1. Convert the previous CGPA to total grade points:
+Previous Total Grade Points = Previous CGPA × Total Credits Attempted (until the previous semester)
+
+2. Calculate the grade points for the current semester:
+Current Semester Grade Points = Σ (Grade Point × Credits) for the current semester
+
+3. Add the previous total grade points and the current semester grade points:
+New Total Grade Points = Previous Total Grade Points + Current Semester Grade Points
+
+4. Calculate the new total credits attempted:
+New Total Credits Attempted = Total Credits Attempted (until the previous semester) + Total Credits Attempted (in the current semester)
+
+5. Calculate the new CGPA:
+New CGPA = New Total Grade Points ÷ New Total Credits Attempted
