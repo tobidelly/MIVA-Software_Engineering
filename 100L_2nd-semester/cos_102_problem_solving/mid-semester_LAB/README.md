@@ -10,6 +10,8 @@
 
 3. [Udemezue John](https://github.com/udemezue01)
 
+4. [Abubakar Abubakar](https://github.com/Azkiama-07)
+
 
 # GPA and CGPA Calculation
 
