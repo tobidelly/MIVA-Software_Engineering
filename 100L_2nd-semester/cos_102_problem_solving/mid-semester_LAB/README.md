@@ -4,13 +4,13 @@
 
 ### Team contributors: 
 
-1. [Ahmad Major](https://github.com/Ahmad081255)
+1. [Abubakar Abubakar](https://github.com/Azkiama-07)
 
-2. [Tobi Delly](https://github.com/tobidelly)
+2. [Ahmad Major](https://github.com/Ahmad081255)
 
-3. [Udemezue John](https://github.com/udemezue01)
+3. [Tobi Delly](https://github.com/tobidelly)
 
-4. [Abubakar Abubakar](https://github.com/Azkiama-07)
+4. [Udemezue John](https://github.com/udemezue01)
 
 
 # GPA and CGPA Calculation
