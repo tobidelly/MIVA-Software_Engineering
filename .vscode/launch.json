@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/USER/MIVA-Software_Engineering/100L_2nd-semester/cos_102_problem_solving/mid-semester_LAB",
-      "program": "c:/Users/USER/MIVA-Software_Engineering/100L_2nd-semester/cos_102_problem_solving/mid-semester_LAB/build/Debug/outDebug",
+      "cwd": "c:/Dev/MIVA-Software_Engineering/200L_1st-semester/CSC_201-Computer-Programming1",
+      "program": "c:/Dev/MIVA-Software_Engineering/200L_1st-semester/CSC_201-Computer-Programming1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
